@@ -17,3 +17,7 @@ hs_err_pid*
 # Intellij compile outputs
 out/
 build/
+/bin
+/.settings
+.classpath
+.project
